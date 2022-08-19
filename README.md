@@ -24,13 +24,6 @@ Here are some ideas to get you started:
 
 ![windows-or-linux-for-mining-0001-hero-1280x640](https://user-images.githubusercontent.com/60598274/185716262-565b21a3-2a15-45a9-843e-1413dec364cc.jpg)
 
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
