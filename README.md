@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 :computer: Network
 
 :coffee: Awake
